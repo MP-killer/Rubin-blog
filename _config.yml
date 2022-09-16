@@ -4,7 +4,7 @@ author: Jiaru (Rubin) Zou
 avatar: /logo.png
 email: jiaruz2@illinois.edu
 
-baseurl: "Rubin-blog"
+# baseurl: "Rubin-blog"
 
 
 plugins:
@@ -32,9 +32,9 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-# linkedin:
-#   username: ngzhio
-#   card: summary
+linkedin:
+  username: ngzhio
+  card: summary
 logo: logo.png
 social:
   name: Jiaru Zou
